@@ -1,14 +1,14 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
+let userID = '577ac8f3-2fed-46ad-bce7-23e821f2eb51;
 let proxyIP = '';
-let sub = '';
+let sub = 'VLESS.fxxk.dedyn.io';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
 let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
-let socks5Address = '';
+let socks5Address = 'socks://onlylike:hfyg2004@31.186.87.205:18793';
 let parsedSocks5Address = {}; 
 let enableSocks = false;
 
